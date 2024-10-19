@@ -1,7 +1,3 @@
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranavh-2004&theme=holi&show_icons=true)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavh-2004&layout=compact&theme=holi)](https://github.com/Pranavh-2004/github-readme-stats)
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Pranav Hemanth
 ==============================================================================================================================
 
