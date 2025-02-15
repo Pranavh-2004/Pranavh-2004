@@ -18,6 +18,8 @@ I am a student at PES University with a passion for cutting-edge technology, com
 ### 🤝 Collaboration
 - Open to collaborating on innovative projects that solve real-world problems
 
+### Resume
+- [Pranav_Hemanth_Resume_Feb'25.pdf](https://github.com/user-attachments/files/18810306/Pranav_Hemanth_Resume_Feb.25.pdf)
 
 ### HMU to collaborate or just start a conversation!:
 <p align="left">
